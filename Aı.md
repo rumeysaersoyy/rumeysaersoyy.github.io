@@ -31,7 +31,6 @@ AI, hem tasarım hem de teknik konularda destek sağladı.
 - AI’dan alınan her öneri geliştirici tarafından **incelendi**, **test edildi** ve projeye **uyarlanmıştır**.  
 - AI, tamamen otomatik kod yazma aracı değil, *yardımcı bir danışman* olarak kullanılmıştır.  
 - AI ile yapılan sohbetler ve kullanılan promptlar kayıt altına alınmıştır.  
-  *(İleride paylaşılabilir.)*  
 
 ---
 
