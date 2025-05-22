@@ -42,6 +42,12 @@ Tüm assetler telif hakkı içermeyen veya ücretsiz kullanıma açık platforml
 - Soru işareti bloğu ve coin: [Kenney.nl](https://kenney.nl/assets)
 
 > **Not:** Eğer bu assetlerden bazıları doğrudan kaynak belirtilmeden alındıysa, kullandığın görsellerin bağlantılarını buraya tek tek eklemelisin.
+## 🎮 Oyun İçi Görseller
+
+![Ekran Görüntüsü 1](webprojesi/resimler/screenshot1.png)  
+![Ekran Görüntüsü 2](webprojesi/resimler/screenshot2.png)  
+![Ekran Görüntüsü 3](webprojesi/resimler/screenshot3.png)  
+![Ekran Görüntüsü 4](webprojesi/resimler/screenshot4.png)  
 
 ---
 ## 🧠 Yapay Zeka Kullanımı
