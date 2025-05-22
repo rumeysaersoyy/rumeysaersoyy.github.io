@@ -40,6 +40,13 @@ Tüm assetler telif hakkı içermeyen veya ücretsiz kullanıma açık platforml
 - Arka plan görselleri: [Pixabay](https://pixabay.com/)
 - Oyun sesleri: [Freesound.org](https://freesound.org/)
 - Soru işareti bloğu ve coin: [Kenney.nl](https://kenney.nl/assets)
+---
+
+## 🎥 Oyun Tanıtım Videosu
+
+Oyun oynanışını anlatan en az 1 dakikalık video yakında YouTube kanalımıza yüklenecektir. Video linki eklendiğinde burada paylaşılacaktır.
+
+---
 
 ## 🎮 Oyun İçi Görseller
 
