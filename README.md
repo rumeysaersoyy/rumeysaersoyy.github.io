@@ -58,6 +58,14 @@ Detaylı tüm konuşmalar ve promptlar için 👉 [AI.md dosyasına göz atın](
 
 ---
 
+## İlham aldığım oyunun ismi ve kaynağı
+Oyun İsmi:
+That Time I Got Reincarnated as a Panda and had to Collect Coins by Rolling Away on Built-to-Scale Platforms
+
+Orijinal Oyun Bağlantısı:
+https://colisan.itch.io/that-time-i-got-reincarnated-as-a-panda-a-h-t-c-c-b-r-a-o-b-t-s-p
+
+
 ## 📌 Lisans
 
 Bu proje eğitim amaçlı olarak geliştirilmiştir. Kâr amacı güdülmeden yayınlanmakta olup tüm kaynaklar uygun lisanslarla alınmıştır.
