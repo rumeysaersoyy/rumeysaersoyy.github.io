@@ -12,10 +12,10 @@ Bu proje, Web Tabanlı Programlama dersi kapsamında geliştirilmiş bir 2D plat
 
 ## 📁 Proje Yapısı
 webprojesi/
-├── index.html → Ana HTML dosyası
-├── game.js → Oyun motoru ve mantığı
-├── resimler/ → Tüm görseller (penguen, canavarlar, zemin vs.)
-├── sesler/ → Oyun içi ses efektleri
+├── index.html → Ana HTML dosyası  
+├── game.js → Oyun motoru ve mantığı  
+├── resimler/ → Tüm görseller (penguen, canavarlar, zemin vs.)  
+├── sesler/ → Oyun içi ses efektleri  
 
 
 ---
