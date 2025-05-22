@@ -59,20 +59,6 @@ Oyun oynanışını anlatan en az 1 dakikalık video yakında YouTube kanalımı
 ![Ekran Görüntüsü 7](webprojesi/resimler/ss7.png)
  
 
----
-## 🧠 Yapay Zeka Kullanımı
-
-Projenin geliştirilme sürecinde [ChatGPT (OpenAI)](https://chat.openai.com/) yapay zeka aracı aktif olarak kullanılmıştır.
-
-- 🎯 Oyun mekaniği önerileri
-- 🐞 Hata ayıklama desteği
-- ⚔️ Kılıç fırlatma mekaniği kodları
-- 🎵 Ses efektleri entegresi
-- 📝 Markdown ve dokümantasyon
-
-Detaylı tüm konuşmalar ve promptlar için 👉 [AI.md dosyasına göz atın](./AI.md)
-
----
 
 ## İlham aldığım oyunun ismi ve kaynağı
 Oyun İsmi:
