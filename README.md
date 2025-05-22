@@ -44,10 +44,13 @@ Tüm assetler telif hakkı içermeyen veya ücretsiz kullanıma açık platforml
 > **Not:** Eğer bu assetlerden bazıları doğrudan kaynak belirtilmeden alındıysa, kullandığın görsellerin bağlantılarını buraya tek tek eklemelisin.
 ## 🎮 Oyun İçi Görseller
 
-![Ekran Görüntüsü 1](webprojesi/resimler/screenshot1.png)  
-![Ekran Görüntüsü 2](webprojesi/resimler/screenshot2.png)  
-![Ekran Görüntüsü 3](webprojesi/resimler/screenshot3.png)  
-![Ekran Görüntüsü 4](webprojesi/resimler/screenshot4.png)  
+![Ekran Görüntüsü 1](webprojesi/resimler/ss1.png)  
+![Ekran Görüntüsü 2](webprojesi/resimler/ss2.png)  
+![Ekran Görüntüsü 3](webprojesi/resimler/ss3.png)  
+![Ekran Görüntüsü 4](webprojesi/resimler/ss4.png)  
+![Ekran Görüntüsü 5](webprojesi/resimler/ss5.png)  
+![Ekran Görüntüsü 6](webprojesi/resimler/ss6.png)  
+![Ekran Görüntüsü 7](webprojesi/resimler/ss7.png)  
 
 ---
 ## 🧠 Yapay Zeka Kullanımı
