@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Penguen Macerası</title>
+  <style>
+    /* sayfa genel ayarları */
+    body {
+      margin: 0;
+      background-color: #e0f7ff; 
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      font-family: Arial, sans-serif;
+    }
+
+    /* oyun alanı (canvas) stili */
+    canvas {
+      border: 3px solid #444;
+      background-color: #ffffff;
+      display: none; /* oyun başlarken gizli olacak */
+      width: 960px;
+      height: 540px;
+    }
+
+    /* başlangıç ekranı tasarımı */
+    #startScreen {
+      width: 960px;
+      height: 540px;
+      background: #002233;
+      color: white;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      border: 3px solid #444;
+      box-sizing: border-box;
+      z-index: 10;
+      position: relative;
+    }
+
+    #startScreen h1 {
+      font-size: 48px;
+      margin-bottom: 30px;
+    }
+
+    #startButton {
+      font-size: 24px;
+      padding: 15px 30px;
+      cursor: pointer;
+      background-color: #ff69b4;
+      border: none;
+      border-radius: 10px;
+      transition: 0.3s;
+    }
+
+    #startButton:hover {
+      background-color: #ff85c1;
+    }
+
+    /* bitis ekranı tasarımı */
+    #endScreen {
+      width: 960px;
+      height: 540px;
+      background: #002233;
+      color: white;
+      display: none;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      border: 3px solid #444;
+      box-sizing: border-box;
+      position: absolute;
+      z-index: 15;
+    }
+
+    #endScreen h1 {
+      font-size: 48px;
+      margin-bottom: 20px;
+    }
+
+    #endScreen p {
+      font-size: 24px;
+      margin-bottom: 30px;
+    }
+
+    #restartButton {
+      font-size: 24px;
+      padding: 15px 30px;
+      cursor: pointer;
+      background-color: #ff69b4;
+      border: none;
+      border-radius: 10px;
+      transition: 0.3s;
+    }
+
+    #restartButton:hover {
+      background-color: #ff85c1;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- BAŞLANGIÇ EKRANI (Oyuna giriş ekranı) -->
+  <div id="startScreen">
+    <h1>Penguin Adventure</h1>
+    <button id="startButton">🐧 Play Game 🐧</button>
+  </div>
+
+  <!-- OYUN MÜZİĞİ (Arka plan müziği sürekli döner) -->
+  <audio id="bgMusic" loop>
+    <source src="sesler/arkases.mp3" type="audio/mpeg">
+  </audio>
+
+  <!-- OYUN ALANI (Canvas) -->
+  <canvas id="gameCanvas" width="960" height="540"></canvas>
+
+  <!-- OYUN SONU EKRANI (Skor ve yeniden başlatma) -->
+  <div id="endScreen">
+    <h1>🎉 Tebrikler! 🎉</h1>
+    <p id="finalScore">Skorunuz: 0</p>
+    <button id="restartButton">🔁 Yeniden Oyna</button>
+  </div>
+
+  <!-- OYUNUN ANA JAVASCRIPT DOSYASI -->
+  <script src="game.js"></script>
+</body>
+</html>
