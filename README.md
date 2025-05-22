@@ -41,7 +41,6 @@ Tüm assetler telif hakkı içermeyen veya ücretsiz kullanıma açık platforml
 - Oyun sesleri: [Freesound.org](https://freesound.org/)
 - Soru işareti bloğu ve coin: [Kenney.nl](https://kenney.nl/assets)
 
-> **Not:** Eğer bu assetlerden bazıları doğrudan kaynak belirtilmeden alındıysa, kullandığın görsellerin bağlantılarını buraya tek tek eklemelisin.
 ## 🎮 Oyun İçi Görseller
 
 ![Ekran Görüntüsü 1](webprojesi/resimler/ss1.png)
