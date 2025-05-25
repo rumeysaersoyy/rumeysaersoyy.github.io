@@ -44,8 +44,7 @@ Tüm assetler telif hakkı içermeyen veya ücretsiz kullanıma açık platforml
 
 ## 🎥 Oyun Tanıtım Videosu
 
-Oyun oynanışını anlatan en az 1 dakikalık video yakında YouTube kanalımıza yüklenecektir. Video linki eklendiğinde burada paylaşılacaktır.
-
+(https://youtu.be/1cdB_rvcjMU?si=vsPjYaCV0uWPgFTu)
 ---
 
 ## 🎮 Oyun İçi Görseller
